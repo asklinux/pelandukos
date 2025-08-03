@@ -31,4 +31,4 @@ ls -l /usr/share/images/desktop-base/
 ls -l /usr/share/gnome-background-properties/desktop-background.xml
 ls -l /etc/alternatives/desktop-theme
 
-
+dconf update
